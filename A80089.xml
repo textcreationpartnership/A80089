@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honourable the Lords Spiritual and Temporal, and to the Honourable the Commons of England in Parliament assembled; a proposal to mend Rye Harbour in Sussex. / Is humbly offer'd, by Robert Colepepyr, Gent.</title>
+            <author>Colepepyr, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80089</idno>
+            <idno type="STC">Wing C5061A</idno>
+            <idno type="STC">ESTC R223437</idno>
+            <idno type="EEBO-CITATION">45097639</idno>
+            <idno type="OCLC">ocm 45097639</idno>
+            <idno type="VID">171243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80089)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171243)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2569:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honourable the Lords Spiritual and Temporal, and to the Honourable the Commons of England in Parliament assembled; a proposal to mend Rye Harbour in Sussex. / Is humbly offer'd, by Robert Colepepyr, Gent.</title>
+                  <author>Colepepyr, Robert.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harbors --  England --  Rye --  Early works to 1800.</term>
+               <term>Harbors --  Maintenance and repair --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:171243:1"/>
+            <pb facs="tcp:171243:2"/>
+            <head>To the Right HONOURABLE The LORDS Spiritual and Temporal, And to the HONOURABLE the COMMONS of <hi>England</hi> in Parliament Aſſembled; <hi>A PROPOSAL to Mend</hi> Rye <hi>Harbour in</hi> Suſſex. Is Humbly Offer'd by <hi>Robert Colepepyr,</hi> Gent.</head>
+            <opener>
+               <salute>May it pleaſe your Honours.</salute>
+            </opener>
+            <p>THAT Harbour is by (Numb. 10.) on the Map herewith given, and was Faulty in 1635: And then Repair'd by an open Navigation on <hi>Apple<g ref="char:EOLhyphen"/>dore-Channel,</hi> and the <hi>Rother;</hi> And the ſame Harbour may be Repair'd, again, If your Honours approve ſuch Navigation, and will pleaſe to favour the ſame by Act of Parliament.</p>
+            <p>That Work was done to mend a general Land-drain, that's now in Decay as well as the Harbour, and both from ill Ad<g ref="char:EOLhyphen"/>vice in Draining. And altho' much Marſh-land was then uſed as a Baſon, yet the ſame only Subjected Marſh Owners to great Charge, without Benefit; as herein after appears.</p>
+            <p>The upper Levels were moſt Damnified by that faulty Drain: So their Commiſſioners of Sewers undertook to mend the ſame, at their uncertain Charge; yet other Commiſſioners of Sew<g ref="char:EOLhyphen"/>ers (alſo Damnifyed) did agree to make certain Annual Payments towards that Work. Which Payments, or their Value by Purchaſe, and ſome Arrears due thereon; together with His Majeſties Derelict Lands in that Channel: I hum<g ref="char:EOLhyphen"/>bly propoſe to your Honours as a Fund for this Work. And that the upper Levels moſt ſubject to Land-floods) do after Cleanſe the ſame Channel with the <hi>Rother:</hi> And alſo Pay Rent for that Part of the latter in <hi>Witterſham</hi> Level, and main<g ref="char:EOLhyphen"/>tain the Banks there, and higher up, as in their ſaid Agree<g ref="char:EOLhyphen"/>ment. And ſo they will be at far the greateſt Charge on draining.</p>
+            <p>I apprehend the Gentlemen moſt concerned, were ſatisfyed in the King's Title to ſuch Navigation the laſt Seſſions of Par<g ref="char:EOLhyphen"/>liament. Yet notwithſtanding that Title, I do not believe ſuch Bill will find any Favour, while your Honours and thoſe Gentlemen apprehend their Marſhes will be Drown'd thereby. Therefore it ſeem'd fit I next ſtate their Objections, and An<g ref="char:EOLhyphen"/>ſwer the ſame.</p>
+            <p>
+               <hi>Object.</hi> 1. The uppermoſt Stop in <hi>Appledore</hi> Channel at Num. 6. in Map, was made in 1623. That the Tides might flow no more above that place. Therefore it appears the Land-drain had then ſome defect in that part.</p>
+            <p>
+               <hi>Anſw.</hi> I do not find our Anceſtors (in their Books of Sewers) have recorded the Damage their Drain receiv'd: And do not think fit to entertain your Honours with my apprehenſions touching the ſame where Proofs are wanting. But will preſume to ſay thoſe Lands were long Drain'd by that Channel before 1623. even from 1272. At which time the <hi>Rother</hi> left <hi>Rumny</hi> out-fall (Numb. 14.) and fell into the Sea at <hi>Rye.</hi> (Numb. 10.) If well inform'd by the Hiſtory of <hi>Hector Boiethias.</hi> And that the ſame ſtop was the firſt made in that Channel, ſeems plain from Records of Sew<g ref="char:EOLhyphen"/>ers. For the then Commiſſioners apply'd to the Lord Warden at that time being; and obtain'd permiſſion for that ſtop, till found hurtful to <hi>Rye</hi> Harbour; but the latter ſtops were made without ſuch Application.</p>
+            <p>The upper Levels then were Drain'd 350 Years, either by common or extraordinary Charge, then attended that Navigable Channel. And whatſoever Evil our Anceſtors hoped to avoid by their ſtop, yet the Drain that ſerv'd 350 Years, (while an open Channel) was quite deſtroy'd in 12 Years by that ſtop, as the following Objection ſhews.</p>
+            <p>
+               <hi>Object.</hi> 2. That before 1635. 3000 Acres lay Drown'd, and 2000 more was much Damified with Freſh Water in the upper Levels. Alſo the Drains of <hi>Rumney,</hi> and <hi>Walland</hi> Marſhes, were much Decay'd in <hi>Appledore</hi> Channel. And 1600 Acres of Low Marſh was Decaying, and like to be loſt in <hi>Witterſham</hi> Level, call'd the <hi>Baſon</hi> there. Wherefore the Commiſſioners of the Sewers, and Land-owners ſo Damnifyed, met on Views; and found <hi>Appledore</hi> Channel (their general Land-drain) had loſt much Depth, by Sea Sullage that dropt and ſubſided there, by Salt Water ſtanding dead againſt their ſtop, at (Numb. 6.)</p>
+            <p>On the ſaid View and Conſideration, 'twas Concluded, That a Channel or Cutt thro' <hi>Witterſham</hi> Levell, to give all Water free Influx and Eflux there, and in the <hi>Rother,</hi> was the beſt means to gain depth in <hi>Appledore</hi> Channel; eſpecially if the 1600 Acres were uſed as a <hi>Baſon:</hi> Which Method was alſo pre<g ref="char:EOLhyphen"/>ſented neceſſary by 48 Jurors.</p>
+            <p>The upper Levels, accordingly agreed for a Channel or Cutt, of 50 Foot Broad in the bottom; and 12 Rods between Bank and Bank, thro' 1200 Acres of High Marſh in <hi>Witterſham</hi> Le<g ref="char:EOLhyphen"/>vel; and were bound for ever to defend thoſe Banks and Marſh<g ref="char:EOLhyphen"/>es, from Damage by ſalt or freſh Water: And by that Agree<g ref="char:EOLhyphen"/>ment, the Owners of thoſe 1200 Acres, were Annually to pay the upper Levels, ſo much toward the Sea Banks, as they paid before that Agreement.</p>
+            <p>The upper Levels, alſo hired the 1600 Acres of Low Marſh adjoyning, and were obliged to hold it as a a <hi>Baſon</hi> under ſalt Water, till (in Judgment of its Owners, the ſame could receive no more Benefit from Sea Sullage. Yet with Liber<g ref="char:EOLhyphen"/>ty to thoſe Owners, to incloſe any part on abatement of Rent.</p>
+            <p>To preſerve the high Marſhes, great endeavours were uſed ſoon after the Tides were let in; yet they waſhed down the fore Lands and Banks thereof, and Drowned much of thoſe Marſhes. And ſince that Inundation, 200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> or therea<g ref="char:EOLhyphen"/>bouts, hath been paid for Rents of <hi>Witterſham</hi> Level, and works done there. Wherefore thoſe Land Owners deſire the Tides may no more have Inſlux thro' <hi>Witterſham</hi> Level, to mend Rye Harbour at their Riſque and Charge; But do think that Experiment ſufficiently tryed, and may now paſs for im<g ref="char:EOLhyphen"/>practicable in that Level.</p>
+            <p>
+               <hi>Anſw.</hi> Theſe Gentlemen I think ought to do no more Works in <hi>Witterſham</hi> Level, to mend either Harbour or Land; till they ſee the Rock that ſo racked their Anceſtors, and find the ſame avoidable. For whoſe ſatisfaction therein, I inform; That all Rivers cut by Water or Hand Labour in Sea Sullage, do fret and waſh away ſoil, till they come to moderate running; be<g ref="char:EOLhyphen"/>cauſe that ſoil is penetrable, So moſt Channel Room will al<g ref="char:EOLhyphen"/>ways attend the greateſt quantity of Water there.</p>
+            <p>The old Channel North of <hi>Oxny,</hi> (where well proportion'd) had more Breadth than was intended for the new Cutt. Yet the latter was to carry moſt Water; and that by all the <hi>Baſon</hi> could receive. Which <hi>Baſon</hi> being a deep wide vacuity laid open to an Arm of the Sea. The ſame might draw the Water thro' that 50 Foot Cut with great Rapidity, till Three quarter Flood: A<g ref="char:EOLhyphen"/>bout which time the fore Lands of that high Marſh might be<g ref="char:EOLhyphen"/>gin to carry Water. Which Rapidity did continue, to widen that 50 Foot Cut, till it made the ſame a ſufficient Water-fret, or Channel, to fill, and empty that <hi>Baſon</hi> in Tide and Ebb: And that by ſuch moderate running, as attends Marſh-chan<g ref="char:EOLhyphen"/>nels.</p>
+            <p>The Water however could not come to ſuch moderation and leave fretting, till it did bring that 50 Foot Cut, to a Water<g ref="char:EOLhyphen"/>fret or Channel of 500 Yards broad. Yet but proportionable with the Water-fret in <hi>Appledore</hi> Channel, (as on View may ap<g ref="char:EOLhyphen"/>appear) Nevertheleſs the like penetrable ſoyl remains, in which that Water-fret might have grown much wider, had more room been wanted, ſo to fill and empty that <hi>Baſon.</hi>
+            </p>
+            <p>I have drawn the ſaid <hi>Baſon</hi> to contain 1600 Acres, by the Scale in the Map herewith delivered. And thereby have alſo laid down the Water-fret of 500 Yards Broad, thro' <hi>Appledore</hi> Channel, and <hi>Witterſham</hi> high Marſhes: For by ſhewing that <hi>Baſon</hi> as the Tides found it, and the Fret that filled the ſame as made by the Tides; I ſeem the more preceptable in anſwer<g ref="char:EOLhyphen"/>ing this Objection. I alſo ſhew my propoſed Channel in the 500 Yards, Water-fret; yet my Channel is much too narrow to be truly ſhewn in this Map, and the 50 Foot Cut made there formerly, not well to be ſhewn.</p>
+            <pb n="2" facs="tcp:171243:3"/>
+            <pb n="2" facs="tcp:171243:4"/>
+            <p>The Cut our Anceſtors made to fill the Baſon, was in Breadth but the Thirtieth part of the Fret or paſſage the Water made to fill the ſame. So their ill advice is ſhewn by Earth and Water. And ſince their want of Breadth was ſo great, the Tides might raiſe the Water many Foot higher in <hi>Appledore</hi> Channel by Three quarter Flood, than the 50 Foot Cut, could raiſe the ſame in the <hi>Baſon</hi> by that time. This would give the Water a great Fall and Rapidity. So the ſame might waſh down Banks and Marſhes apace: And Works that ſo much oppoſed the Waters Tendancy, might well fail. And ſince ſo great a <hi>Baſon</hi> was made in 1635, with an ill proportion'd Cut to fill the ſame; and I propoſe no <hi>Baſon;</hi> therefore what I now offer was not try<g ref="char:EOLhyphen"/>ed in 1635.</p>
+            <p>
+               <hi>Object.</hi> 3. The freſh and ſalt Water had the propos'd open Chan<g ref="char:EOLhyphen"/>nel thro' <hi>Witterſham</hi> Levell, and alſo round <hi>Oxny</hi> at the ſame time; yet then Sullage did ſubſide in the Channel near <hi>Reading,</hi> (Numb. 4.) and there raiſed a ſtop of Sand ſome 60 Rods long; and to ſuch height, that the ſame turned low freſhes back to the Cut in <hi>Maytham</hi> Wall (Numb. 3.) And the old <hi>Rothers</hi> other parts from (Numb. 3.) to <hi>Appledore</hi> Channel, were made very narrow by ſide Benches; And of late Years ve<g ref="char:EOLhyphen"/>ry much Sullage is ſettled in <hi>Appledore</hi> Channel, near down to <hi>Rye;</hi> which Sullage will come into <hi>Witterſham</hi> Cut and the <hi>Rother;</hi> and fill the ſame were they laid open as deſir'd.</p>
+            <p>
+               <hi>Anſw.</hi> Touching the ſtop at <hi>Reading,</hi> (Num. 4.) I apprehend the Tides flowed up <hi>Witterſham</hi> Cut and <hi>Baſon,</hi> into the <hi>Rother,</hi> at (Numb. 3.) did there divide, and both flow up and down that Channel; but becauſe Water will rather run with a ſmall Cur<g ref="char:EOLhyphen"/>rent than againſt it, therefore I apprehend the Tides flowed downwards; till they were met at <hi>Reading,</hi> by the other Wa<g ref="char:EOLhyphen"/>ter that came up by <hi>Appledore,</hi> (Numb. 5.) So at <hi>Reading,</hi> theſe two Waters ſwell'd up, one againſt the other; till the Tides left flowing; and in that time they dropped Sullage; which by ſubſidence made that ſtop. But conclude the Water went up by <hi>Appledore,</hi> could not flow round <hi>Oxny,</hi> while <hi>Wit<g ref="char:EOLhyphen"/>terſham</hi> Paſſage was open; becauſe a ſtop with Water was made at <hi>Reading</hi> every Twelve Hours, (over the Sand ſtop there) and that to the height of high Water. Nor could the Water (with any good Strength) flow up the old Channel, from <hi>Maytham</hi> Wall, (Numb. 3.) towards <hi>Bodyam,</hi> (Numb. 1.) till a Cur<g ref="char:EOLhyphen"/>rent was turn'd that way by the height of the ſaid ſtop, ſo made by Water: Therefore, unleſs theſe two Waters had flow<g ref="char:EOLhyphen"/>ed up two ſeveral Channels, till the Tides had been ſpent, and had never met; the ſame Sand ſo ſettling, can be no pre<g ref="char:EOLhyphen"/>ſident againſt a ſingle Channel. Nor do thoſe Channels, in any meaſure ſhew that my propoſal was tryed in 1635.</p>
+            <p>As to the Sullage ſettled in tide Benches from (Numb. 4.) up to (Numb. 3.) and down to (Numb. 6.) I ſay the Paſſage thro' <hi>Witterſham</hi> Level, divided the freſh Water, between that Paſſage and the old <hi>Rother.</hi> Yet the whole Water was not ſufficient to ſcower the <hi>Rother,</hi> without help from hand Labour; to wit, the caſting of ſide Benches out of the ſame.</p>
+            <p>The <hi>Witterſham</hi> Paſſage took all the freſh Water in Summer, (as <hi>Reading</hi> Sand ſtop ſhews) and far above half in Winter, for the Cut, or <hi>Witterſham</hi> Water-paſſage is one part in 3 ſhort<g ref="char:EOLhyphen"/>er than the old Circular Channel of the <hi>Rother;</hi> and conſe<g ref="char:EOLhyphen"/>quently has ſo much the more fall. For admit the deſcent between <hi>Maytham</hi> Wall, (Numb. 3.) and <hi>Craven</hi> Out-fall, (Numb. 9.) is 6 Foot. Then as 6 Miles of Channel thro' <hi>Witterſham</hi> Level, hath 12 Inches fall to each Mile; So the old Channel can have but 8 Inches to a Mile; the ſame Chan<g ref="char:EOLhyphen"/>nel running 9 Miles, to come againſt <hi>Craven</hi> Out-fall, (Numb. 9.)</p>
+            <p>The ſalt Water then that flowed up the old Channel, had from <hi>Maytham</hi> Wall, (Numb. 3.) but a weak freſh follower at Ebb, even in Winter, and none in Summer there, nor at <hi>Rea<g ref="char:EOLhyphen"/>ding,</hi> (Numb. 4.) and this is the Water found inſufficient to cleanſe one Channel; yet was there put to cleanſe two: So the Tides might well leave Sullage in the old Channel, and raiſe ſide Benches there; above, and below <hi>Reading,</hi> (Numb. 4.)</p>
+            <p>Now to the Damage fear'd from <hi>Sullage,</hi> in <hi>Appledore</hi> Chan<g ref="char:EOLhyphen"/>nel, <hi>(viz.)</hi> its coming into the propoſed Channel, and ſubſi<g ref="char:EOLhyphen"/>ding there. For ſatisfaction therein, I intend the Mouth or wideſt part of the propoſed Channel, ſhall not exceed 20 Rods, (if it be ſo Broad.) So 'twill draw no more Water in, from <hi>Appledore</hi> Channel, than is neceſſary to preſerve or gain a ſutable Water-fret there. Which fret in <hi>Appledore</hi> Channel, (if now too wide) will loſe Breadth, till it hath not too much to fill my new Channel: as <hi>Witterſham</hi> Cut grew wider till it could fill the <hi>Baſon;</hi> for Tides will leave Sullage in over Breadths of a Water-fret; as well as make Breadth where 'tis wanting.</p>
+            <p>While the <hi>Rother, Baſon,</hi> and high Marſh Water-fret were open, yet much Sullage ſubſided on <hi>Witterſham</hi> ſide of <hi>Apple<g ref="char:EOLhyphen"/>dore</hi> Channel; becauſe the ſame Channel had more Breadth then was neceſſary to fill thoſe open Receptacles, however, ſince the ſtops were made croſs the ſaid Level and Channel, much more Sullage hath ſettled where the ſame is complain'd of then was there before.</p>
+            <p>Since the Tides have a tendency to leave Sullage in <hi>Apple<g ref="char:EOLhyphen"/>dore</hi> Channel, we need not fear any quantity will thence re<g ref="char:EOLhyphen"/>move; but were that Channel never ſo clean, yet every Tide would carry in Sullage, and ſoon deſtroy the Navigation and Drain, I prepoſe; If by caſting of ſide Benches out of the upper half, and freſh Water there, the ſame would not be kept open, and be come a Salt <hi>Baſon,</hi> to ſcower the lower part.</p>
+            <p>By ſuch cafting with a ſmall freſh from two Mill-ſtreams, drain<g ref="char:EOLhyphen"/>ed by <hi>Winchelſea</hi> Channel (Numb. 11.) the lower half of that Channel is conſtantly kept clean and deep; and the ſide Bench<g ref="char:EOLhyphen"/>es there caſt out, do coſt Three Shillings the Rod, or there<g ref="char:EOLhyphen"/>bouts once in 7 Years. And no reaſon appears, but ſuch caſting in the propos'd Channel, may perform as well (if not better) for this laſt Channel drains 9 Mill-ſtreams; yet no Mill ſtands on this Channel, propos'd to be made Navigable; but many Iron Works are on the Mill-ſtreams, and would be much ſerved by ſuch Navigation.</p>
+            <p>
+               <hi>Object.</hi> 4. That we have the Example of the <hi>Dutch</hi> for ſhutting the Tides out of our Navigable Channels by Sluces, who have long uſed them with good Succeſs; and they are a People well eſteem'd for Draining, and by none thought Enemys to their Navigation. And when part of a great Land<g ref="char:EOLhyphen"/>floud Drowns many Marſhes, before it comes into the Imbank'd Channel, and there other part of that Land-flood meets high Spring Tides, and ſo ſwells higher then the Marſhes: Then for want of Sluces to keep the Tides back, thoſe Marſhes muſt lie the longer under freſh Water.</p>
+            <p>
+               <hi>Anſw.</hi> Firſt, touching the Example given us by the <hi>Dutch;</hi> I ſay, the Spring-water and Land-floods Drain'd by their Chan<g ref="char:EOLhyphen"/>nels, bear very little Proportion with ours in quantity; Nor have they ſuch Deſcents to ſtrengthen their motion: Therefore the <hi>Dutch</hi> Freſhes are not ſufficient to ſweep out the Land and Sea Sullage, would ſettle in the upper part, or half of their Channel, ſhould the ſame be ſet open. And unleſs the upper half of a Channel be a Salt <hi>Baſon,</hi> to help weak Freſhes, to ſcower out, Sullage would ſettle lower down: The Land-drain and Navigation of a whole Channel would ſoon be obſtructed, by Sea and Land Sullage. And I preſume no Channel in <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> (running thro' Sluces) has near ſo much Freſh Wa<g ref="char:EOLhyphen"/>ter as <hi>Winchelſea</hi> Channel, (Numb. 11.) before mention'd.</p>
+            <p>In following this <hi>Dutch</hi> Example, we ſhould loſe depth of Water in our Harbors, and want the ſame as much as they; or come as near it, as our better natural helps will admit of. And ſo far make the King's Ships more unſafe, unleſs we Build them on <hi>Dutch</hi> Bottoms. Therefore, I hope we ſhall not ſuffer that Evil out of Chouſe, which the <hi>Dutch</hi> ſubmit to from neceſſity.</p>
+            <p>Touching our uſe of Sluces, to keep Spring Tides from meet<g ref="char:EOLhyphen"/>ing Land-floods, and ſo holding our Marſhes the longer un<g ref="char:EOLhyphen"/>der Freſh Water. I ſay, the higheſt Spring Tides make the greateſt reverſe, and leaves the leaſt Salt Water in our Har<g ref="char:EOLhyphen"/>bours and Channels for ſeveral Miles next the Sea. For the Sea makes a large vacuity at low Water, ſufficient to receive any Land-flood comes in reach of its Ebbs. But in parts of the ſame Channel, where the Salt Water doth not flow and Ebb; There following Rains may keep a Land-flood high; becauſe this part of the Channel empties it ſelf into the part next below it, where Breadth doth little increaſe.</p>
+            <p>Theſe Obſervations alſo appear from Fact, for Land-floods obſtruct Travellers ſeveral Days at ſome diſtance from the Sea: yet the Outfalls of thoſe Waters, are drawn down every Ebb. To prove this, the Land-floods on <hi>Newinden</hi> High-way (Num. 2.) and Ebbs at <hi>Rye,</hi> (Numb. 10.) will afford an inſtance to the upper Level-owners; For the ſaid High-way is hardly paſſable for many Days, yet from their Sluces to <hi>Rye,</hi> the greateſt Land<g ref="char:EOLhyphen"/>flood runs very ſhallow at Low-water.</p>
+            <p>So much of <hi>Rye</hi> Harbour, and <hi>Appledore</hi> Channel, as are not yet Imbank'd and Drain'd, then ſeem remains of a <hi>Baſon,</hi> that Empties it ſelf into the Sea every Ebb; and is refilled in 6 Hours. <hi>(viz.)</hi> by Salt Water the Tides bring in, and Freſh that gets thro' the Sluces, before they are ſhut by the Tides. There<g ref="char:EOLhyphen"/>fore to that time the Salt Water comes into the <hi>Baſon,</hi> doth exceed the Freſh in quantity, as the Harbours Mouth exceeds the Sluces in Water Paſſage: And from the ſhutting of the Sluces, that <hi>Baſon</hi> muſt fill wholly with Salt Water; and Wa<g ref="char:EOLhyphen"/>ter then ſpreads to the greateſt Breadth. So the <hi>Baſon</hi> of Water goes to Sea every Ebb, carrys very little Freſh Wa<g ref="char:EOLhyphen"/>ter out with the ſame.</p>
+            <p>The open Channel propoſed, would carry out Sixteen times as much Water as the Sluces, or thereabouts, when the Sluces carry moſt; and would Contribute ſo much more freſh Water to the Baſon while the ſame is filling; and eſpecially when the Marſhes are moſt Drowned; For the greateſt Land-floods preſs hardeſt on the Tides, and ſtop them neareſt to the Sea in an open Channel: So far are open Channels from keeping Land<g ref="char:EOLhyphen"/>floods longer in, or Sluces from Draining them ſooner out; and if extream Tides and Land-floods meet higher up in an open Channel than the Sluces lie, and make the Water ſwell the highet
+<pb n="3" facs="tcp:171243:5"/>
+               <pb n="3" facs="tcp:171243:6"/>
+there; yet the Banks prevent Damage, as in other ſuch Chan<g ref="char:EOLhyphen"/>nels, and the ſame Water preſently abates; and much the faſter in an open Channel, as before ſhewn.</p>
+            <p>
+               <hi>Object.</hi> 5. That <hi>Appledore</hi> Channel (the general Land-Drain) was always in the upper Level's Commiſſion of Sewers; near down to <hi>Rye.</hi> And no more than a Power to ſew into the ſame, contained in any Commiſſion of Sewers between the upper Le<g ref="char:EOLhyphen"/>vels and the Sea: Nor did thoſe lower Commiſſions contribute towards the Cleanſing of that Channel before 1635.</p>
+            <p>After 1635. the Lords of <hi>Rumny</hi> and Commiſſioners of <hi>Walland</hi> Marſhes did enter into an Agreement with the Commiſſioners of the upper Levels, containing ſeveral Conditions on the part of the latter, to be performed, <hi>(viz.)</hi> That thoſe Commiſſioners ſhould turn their freſh Water over to <hi>Rumny</hi> ſide of <hi>Appledore</hi> Channel, to make and preſerve Depth near the Sluces there; and never after alter the Courſe of the ſaid Water.</p>
+            <p>In Conſideration of which Water, and for the upper Level's great Charge on their Salt <hi>Baſon,</hi> and other Works; and the Benefit thereby received by the Lords and Commiſſioners of <hi>Rumny</hi> and <hi>Walland</hi> Marſhes (<hi>viz.</hi> by the better Draining ſuch of their Marſhes as iſſue Water into that Channel:) They the ſaid Lords and Commiſſioners did agree to Pay the upper Levels 160 <hi>
+                  <abbr>l.</abbr> per Annum;</hi> Which Payment to continue ſo long as thoſe Lands ſhould be well Drained by the upper Level's Works; and no longer. Yet with <hi>Proviſo,</hi> That the ſaid Agreement ſhall not be drawn into future Precedent.</p>
+            <p>Notwithſtanding the <hi>Proviſo,</hi> and that <hi>Rumny</hi> Marſh, and other Marſhes below them, Paid nothing towards <hi>Appledore</hi> Channel before 1635. And alſo the upper Level's Stops; whereby they have turned their freſh Water croſs that Channel to <hi>Rumny</hi> ſide, below the Sluces were in 1635. and thereby forced <hi>Rumny</hi> and <hi>Walland</hi> Marſhes to lay new Sluces nearer the Sea. Which Charge muſt be repeated as more Stops ſhall become neceſſary. And notwithſtanding the upper Levels have alſo Drained their <hi>Baſon;</hi> yet 'tis now deſired that the 160 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> may be perpetuated by Act of Parliament; and made ſaleable, to raiſe Money for the open Channel propoſed. Tho' if ſuch Act paſs, and the Work fail: Then thoſe Lands will be double Charged for Draining.</p>
+            <p>
+               <hi>Anſw.</hi> I preſume all Marſh Owners have a Right to Drain into an adjoining Navigable Channel without Charge, Provided the Natural Helps of ſuch Channel will preſerve depth ſo to Drain: But <hi>Rumny</hi> and <hi>Walland</hi> Marſhes could not ſo Drain, as their Agreement beforementioned ſhews; and the ſupernatural Helps then thought neceſſary, were done by the upper Levels (as agreed on) and remained, till the Stops complained of, were found neceſſary to Drain the upper Levels, in their Method; but thoſe Stops yet cauſe no Prejudice to <hi>Rumny</hi> and <hi>Walland</hi> Marſhes, or any other, ſave the Charge they have Paid, or may be put to, on new Sluces lower down.</p>
+            <p>Touching the ſaid Stops, I ſay yet further, That in 1646, the <hi>Baſon</hi> was found much too large for the Cut made to fill the ſame: Therefore a Bank (No. 7.) called <hi>Blackwall,</hi> was made croſs that <hi>Baſon;</hi> with Sluces therein to obſtruct ſalt Water, and give paſſage to the freſh. And the ſame Wall left about 900 Acres open to ſalt Water, and the other 700 Acres under freſh Water, as the latter remains.</p>
+            <p>It appears there was then no intention to Drain Land by this Stop; yet on the ſide thereof neareſt to the Sea, much Sullage ſubſided, and did damnifie many Lands in the upper Levels: Therefore (as a growing Evil) that Sullage was conſidered in their Seſſions of Sewers. And 'twas the Commiſſioners opinion, That the ſame Sullage might be raiſed much higher, by the ſalt Water, and Drown all their Marſhes with freſh Water.</p>
+            <p>To avoid ſuch Drowning, a ſecond Stop was made below that Sullage. Which ſecond Stop did Drain the Sullage raiſed by the firſt, and raiſed more Sullage on its ſide next the Sea, after Drained by the third Stop. And thus they went lower with Stops, till they Drained all <hi>Witterſham</hi> Level, and part of <hi>Apple<g ref="char:EOLhyphen"/>dore</hi> Channel; as (No. 9.) ſhews.</p>
+            <p>As theſe Stops come nearer to the Sea, <hi>Appledore</hi> Channel (the general Land-drain) ſooner decays, becauſe there the Tides ſtand longer dead to drop Sullage; yet the upper Levels are firſt damnified, and now want a new Stop or Out-fall nearer to <hi>Rye;</hi> Tho' their laſt Stop was made but five Years ſince, or thereabouts. So in this Method they muſt ſoon deſtroy <hi>Rye</hi> Harbour, and probably much damnifie many Marſhes Drained through the ſame.</p>
+            <p>The Drowning of the upper Levels thus kept off by Stops, was no other way avoidable, ſave by an open Channel. So here appears a neceſſity to Drain that <hi>Baſon;</hi> either by Stops, or Channel-banks. And the upper Levels had no Power to keep the ſame <hi>Baſon</hi> always open, as appears by their Prior Agree<g ref="char:EOLhyphen"/>ment with <hi>Witterſham</hi> Level, herein before mentioned; For thoſe Land Owners had Power to make ſuch Side Banks as are now Propoſed: Nor is the Continuation of that <hi>Baſon</hi> made a Con<g ref="char:EOLhyphen"/>dition of Payment, but that Condition is good Draining at the upper Level's Charge: And by their Works, and <hi>Water,</hi> the Lands ſo agreed for, have been Drained ever ſince 1645. and without the ſame would ſoon be Drowned: For otherwiſe they need not go lower with Sluces, for benefit from the upper Le<g ref="char:EOLhyphen"/>vel's Freſh: when no croſs Stop is made between them and the Sea; yet ſo they have <hi>Done.</hi> Therefore the Contributers ſeem liable to continue their Payments, whether Drained by an open Channel or Sluce-ſtops.</p>
+            <p>Touching the open Channel's ſufficiency to Drain <hi>Rumny</hi> Marſh, and other Marſhes lower down. I ſay, that further up than their Sluces, the open Channel will be drawn Low every Ebb: Therefore all Lands ſo near the Sea muſt be well drained thereby, except low Bogs. And a narrow <hi>Water</hi> Fret in <hi>Apple<g ref="char:EOLhyphen"/>dore</hi> Channel againſt thoſe Sluces, is now ſcower'd only by the upper Level's Freſh, and by Salt-water Leaks through their Sluces in Tide time, and returns at Ebb.</p>
+            <p>The ſaid ſmall Influx and Efflux perform ſo well, that I hear of no Lands there ill Drained; and the open Channel will ex<g ref="char:EOLhyphen"/>treamly increaſe that Influx and Efflux. So here is fact at home, to ſhew thoſe Lands muſt be Drained well by ſuch open Chan<g ref="char:EOLhyphen"/>nel. And all Marſh Lands in the Map were made by ſalt Water: And Sluce-ſtops were alſo uſed in <hi>Winchelſea</hi> Channel (No. 11.) till the ſame were removed for obſtructing their Drain; and now that Channel maintains a good depth much farther from the Sea than <hi>Rumny</hi> and <hi>Walland</hi> Marſh Sluces: And many more Pre<g ref="char:EOLhyphen"/>cedents might be cited, did the ſame ſeem neceſſary.</p>
+            <p>Touching the Side Banks to be made for the open Channel, and the ſufficiency of the ſame to ſtand there; I ſay, the Work<g ref="char:EOLhyphen"/>men in thoſe Parts, have of late years made many Sea-banks, in <hi>Witterſham</hi> Level; and Stops croſs the deep Water-fret there, and in <hi>Appledore</hi> Channel. Which Stops and Banks were much more expoſed to Storms than my Channel Banks will be. So no failure in the ſaid Channel Banks may be preſumed irreparable. And now I hope all Objections are anſwered.</p>
+            <p>By an open Channel, I apprehend much Money may be ſaved (otherwiſe ſoon to be ſpent and loſt) <hi>viz.</hi> by the upper Levels, on a new Stop or Out-fall. And by <hi>Rumny</hi> and <hi>Walland</hi> Marſhes, on a new Channel and Sluces, to iſſue their Water out below ſuch new Out-fall of the upper Levels. For the open Channel propoſed will ſcower all neceſſary Sluces where they now lie.</p>
+            <p>I do not endeavour to break Agreements by which any Lands were Charged for Draining; but deſire the preſent Owners may perform the ſame, to which they ſeem liable as before; And that ſome Marſhes that but lately uſed <hi>Appledore</hi> Channel (the common Land-drain) may pay to the Charge of the ſame; as other Contributors agreed to pay for Draining there. And this Money, with the Derelict Lands propoſed, as other part of a <hi>Fund</hi> for this Work; being laid out on an open Channel; the ſame will mend the Drain, and Harbour both; and ſeems the only way to make either of them laſting.</p>
+            <p>Touching the Bar, or flat in <hi>Rye</hi> Bay. The Water there in Calms, and near low Ebb has no motion but a ſmall ſwell againſt the Shores, and back again. So when a Channel falls into ſuch Bay, the Water of the Channel muſt loſe its motion and ſtrength, and drop Sand; which Sand ſubſides till that Water is diſturbed by Winds; for ſuch Efflux as cannot keep Sand in motion, can never diſlodge it. Therefore a great Efflux ſeems no further uſeful on a Bar, than by laying the Sand makes the ſame, in reach of Storms. For tho' all Water now within the Bar covers but 500 Acres, or thereabouts; yet this Bar is now as Navigable, as when 3000 Acres more of Marſh lay under ſalt Water, that's now drained. That 500 Acres ſeem more by the Map, but the ſame was not nicely plotted, nor are the South Channels ſo to be ſhewn on this Map, they are ſo ſmall.</p>
+            <p>The above Bar is deeply Imbayed to the North, and Weſt, by Beach-banks; were raiſed by great Storms: For the ſame are much higher than any quiet Tide comes. So Storms from Eaſt and South, drive Sand from the Sea, and Bar, up againſt thoſe Beach-banks; and bring it back by reverſe; but that reverſe can<g ref="char:EOLhyphen"/>not carry the ſame out of the Bay.</p>
+            <p>The Bar is defended from North and Weſt Storms, by thoſe Banks, till the Storms that blow over theſe Banks, can diſturb the Bar Sand, and drive the ſame out to Sea; but when any Sand ſo goes to Sea, the Bar muſt exceed its common, and guarded height. For theſe Reaſons I expect to do nothing on this Bar by an open Channel.</p>
+            <p>The open Channel with an Out-fall leſs Imbayed, may yet keep a Bar as Navigable there, as any Bar in a Sea of ſuch depth, and ſo expoſed to Storms: If hereafter ſuch Work ſhall find en<g ref="char:EOLhyphen"/>couragement, and publick Charge: Such new Out fall I would make againſt <hi>Pett</hi> Level, lying between <hi>Winchelſea</hi> (No. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.) and <hi>Haſting</hi> (No. 12.) becauſe an Out-fall Bar there will be well diſturbed by Storms that blow in and out; and alſo receive much more benefit from Side Storms than <hi>Rye</hi> Bar hath. I appre<g ref="char:EOLhyphen"/>hend the Bar without this new Out-fall will lie above 6 Foot deep at Low-water; but admit it ſhould be kept no deeper than 6 Foot, yet Second Rate Ships may come in at half Flood, and ride in the Channel, or in a <hi>Baſon</hi> may be made, with Gates into the Chan<g ref="char:EOLhyphen"/>nel, to receive Ships in, and keep Sullage out, and ſuch Ships may ride in the Bay from low Water till half Flood, without Damage; eſpecially when the Winds are North or Weſt, from
+<pb n="4" facs="tcp:171243:7" rendition="simple:additions"/>
+               <pb n="4" facs="tcp:171243:8" rendition="simple:additions"/>
+
+which Points they blow ſome three parts of the Year. The principal part of which Charge, will then be required for 1280 Rods of Channel Banks, or thereabouts. For (with ſome help) the Tides and Ebbs will make a better Channel there, than can be made by hand Labour. But no more of this, till we ſee what Depth the open Channel will make in <hi>Rye</hi> Harbour, between the Beach-banks there.</p>
+            <p>The Beach-banks of the Bay do Suffer Storms to keep the Bar or Flat Navigable there, from Half-flood to Half-ebb; for from Half-flood, ſmall Men of War, Tenders and Store-ſhips may come in; and better Ships may enter near High-water: and a few Ships may now Ride in the Harbour at Low-water. And 'tis probable, an open Channel will make room and water for many more; For before the ſaid Imbankments, the Harbour's depth of Water, and Expanſion of the ſame, was much greater than the ſame now are.</p>
+            <p>I hope more is not neceſſary to ſatisfie your Honours, and the Land Owners concerned: Therefore now pray Leave to give Particulars, touching the Charge of this Work. And the Fund to Anſwer the ſame.</p>
+            <p>
+               <hi>Charge.</hi>] By two Channel Banks, to run from <hi>Craven</hi> Sluce (Numb. 9.) up to <hi>Black-wall,</hi> (Numb. 7.) and from thence a ſingle Bank to run near <hi>Suſſex</hi> Uplands, to the Weſt-end of <hi>Maytham</hi> Wall, (Numb. 3.) at which place this new Channel will fall into the River <hi>Rother.</hi> Which Banks I compute at 4040 Rods, and hope the ſame one part with the other may be made for 33 <abbr>
+                  <hi>s.</hi>
+               </abbr> the Rod, and afford Impliments for the Work; which comes to—6666 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>By Repair of old Channel Banks on the <hi>Rother,</hi> above <hi>Maytham</hi> Wall (Numb. 3.)—1500 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>By a Sluce in the <hi>Rother,</hi> juſt below the new Chan<g ref="char:EOLhyphen"/>nels Paſſage into the ſame. To keep the Tides up towards <hi>Bodyam</hi> (Numb. 1.) and Four ſmaller Sluces above the ſaid Sluce: To keep the Tides out of ſmall Drains—1200 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>By Repair of the two moſt Eaſterly Breaches in <hi>May<g ref="char:EOLhyphen"/>tham</hi> Wall (Numb. 3.) and for two ſmall Guts or Trunks, To Drain that freſh Water <hi>Baſon</hi> (lying between the ſaid Wall and <hi>Black-wall</hi> (Numb. 7.) into the new Channel—100 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>
+               <hi>Total</hi> 9466 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>
+               <hi>Fund.]</hi> To Fifteen years Arrears of 160 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> ſeems Due from the Lords of <hi>Rumny</hi> Marſh, and Com<g ref="char:EOLhyphen"/>miſſioners of <hi>Walland</hi> Marſh; For about ſo long ſince they denied Payment. Becauſe put to the Charge of removing their Sluces: and for other Cauſes of Com<g ref="char:EOLhyphen"/>plaint in the Fifth Objection. So if your Honours ſhall think thoſe Arrears due, and appropriable to this Work, Then the ſame (if right in time) come to—2400 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>Yet Money ſo ſpent on removing of Sluces, ſeems deductable from the ſaid Summ—</p>
+            <p>To Money may be raiſed by that 160 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> at 20 Years Purchaſe, If your Honours ſhall be ſatisfied the open Channel will be a good and laſting Drain to to thoſe Lands; and will pleaſe to perpetuate that An<g ref="char:EOLhyphen"/>nual Payment—3200 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>The 1200 Acres of high Marſh in <hi>Witterſham</hi> Level, were to Pay as much annually for Repair of Banks, <hi>&amp;c.</hi> as they Paid before 1635. (as in their ſaid Agreement) but moſt of thoſe Lands were drowned ſoon after that time; And ſo the full Rents thereof were Paid, purſuant of the upper Level's Covenant to Indemnifie. And thoſe Rents Paid free from wet and dry Fence, with other Charges incident to Marſhes and all Lands) were much more to the Owners benefit, than if their Marſhes had been defended at their agreed Charge.</p>
+            <p>Becauſe thoſe Marſhes were not Drained and their Banks repaired; Therefore the Gentlemen moſt inte<g ref="char:EOLhyphen"/>reſted in <hi>Witterſham</hi> Level, (being Commiſſioners of Sewers for the ſame, and alſo for the upper Levels) did omit to Pay for Securing their <hi>Witterſham</hi> Rents; yet the annual Values of thoſe Lands have been ſecured at the upper Level's Charge, either by Payment of Rents, or Expence on Banks; and that for 65 years.</p>
+            <p>Brought over—5600 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>The Owners of theſe high Marſhes, therefore ſeem indebted to the upper Levels, or towards the open Channel, in 65 ſuch annual Payments, as their Charges of Draining came to before their Agreement. But leaſt that Charge be not aſcertainable, I compute the ſame at 4 <hi>
+                  <abbr>d.</abbr> per Annum</hi> the Acre, as the Marſhes on the South of <hi>Rye</hi> do Pay. And ſo it comes to—1300 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>To the whole Level of <hi>Witterſham,</hi> and a Marſh ad<g ref="char:EOLhyphen"/>adjoyning called <hi>Playden</hi> Level, both containing 3000 Acres; which at 4 <abbr>
+                  <hi>d.</hi>
+               </abbr> the Acre, will Pay 50 <hi>
+                  <abbr>l.</abbr> per Ann.</hi> And that Summ being perpetuated, will at 20 Years Purchaſe, raiſe—1000 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>To the Owners of <hi>Guildford</hi> Level, for the Draining of ſome 3000 Acres of Marſh for 15 Years laſt paſt, or thereabouts; which at 4 <abbr>
+                  <hi>d.</hi>
+               </abbr> the Acre comes to 50 <hi>
+                  <abbr>l.</abbr> per Annum:</hi> And ſo for 15 Year is—7<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>To the ſame annual Payment at 20 Years Purchaſe if perpetuated—1000 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>Theſe Lands did Drain out into <hi>Waine-way</hi> Creek, (Numb. 16.) till the Stops there made Land of that Creek, and ſhut up that Drain. And therefore the Owners of this Level made no Agreement for Drain<g ref="char:EOLhyphen"/>ing when the ſaid Agreements for Draining were made.</p>
+            <p>To 300 Acres of Derelict Land, or thereabouts; gained out of <hi>Appledore</hi> Channel, by the two loweſt Stops made croſs the ſame. Theſe Stops turn all the Channel above them into marſh Land; except a ſmall Drain for freſh<g ref="char:EOLhyphen"/>water. This new-gain'd Marſh has ſometimes been drowned with ſalt Water to ſcower Sluces. The Lord<g ref="char:EOLhyphen"/>warden alſo may lay it open to the Sea again, for bene<g ref="char:EOLhyphen"/>fit of Navigation; and no Claim is made thereto, by thoſe at whoſe Charge the ſame was gained. Therefore theſe Lands ſeem to be in the Crown: and not the Property of any Subject. 2700 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>An Appropriation of theſe Lands to mend <hi>Appledore</hi> Channel (the general Land-Drain); will divide the be<g ref="char:EOLhyphen"/>ne fit thereof, to the ſeveral Land Owners Drained the ſame, and that in proportion to their Payments for ſuch Draining; And <hi>Rye</hi> Harbour will have ſome Reparation, by thoſe Stops, from whence it received much Damage. This Marſh ſo uſed to ſcower Sluces, is not fully im<g ref="char:EOLhyphen"/>proved; but that Improvement will be received, if the ſaid Channel ſhall be open'd. For there will after be no need of a <hi>Baſon</hi> on any Land to ſcower Sluces. So the Condition of this Land conſidered; I value the ſame but at 12 <hi>
+                  <abbr>s.</abbr> per Annum</hi> the Acre, and fifteen Years Purchaſe, and ſo it will raiſe—2700 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>
+               <hi>Fund</hi> 12350 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>
+               <hi>Charge</hi> 9466 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>Yet this Overplus of 2884 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+            </p>
+            <p>ſeems ſubject to Abatement for Removal of <hi>Rumny</hi> and <hi>Walland</hi> Marſh Sluces as before.</p>
+            <p>That part of the <hi>Baſon</hi> above <hi>Black-wall,</hi> was hired at 400 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> or thereabouts in 1635. and is now Lett for 60 <hi>
+                  <abbr>l.</abbr> per Annum;</hi> notwithſtanding all Endeavours for better Draining, conſiſtent with Sluce-Stops. But I hope the open Channel may Drain that low Marſh as well as formerly: However, if I mi<g ref="char:EOLhyphen"/>ſtake herein; yet as I propoſe to Imbank it, the ſame may eaſily be Drained by a Mill: For leſs Rain than falls on twice that Expanſion, will be all the Water we can have there.</p>
+            <p>Six year after that Land ſhall be Drained, the ſame may be delivered back to its Owners (as agreed); So the Commiſ<g ref="char:EOLhyphen"/>ſioners of the upper Levels, will ſave 340 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> by an open Channel; even in this <hi>Baſon.</hi> Therefore ſhould my Fund of 12350 <abbr>
+                  <hi>l.</hi>
+               </abbr> before mentioned prove Inſufficient, either by your Honour's Diſallowance of any part thereof, or otherwiſe: Then I humbly ſubmit it to your Honour's great Judgment, how far the upper Levels may be Charged to make the ſame good, in Conſideration of the ſaid 340 <hi>
+                  <abbr>l.</abbr> per Annum.</hi>
+            </p>
+            <p>The ſame Commiſſioners alſo, have ſeveral other Marſhes in their hands; becauſe not well enough Drained to pay the Drain<g ref="char:EOLhyphen"/>ing Taxes, now about 9 <hi>
+                  <abbr>s.</abbr> per Annum</hi> the Acre; yet thoſe Lands, were formerly worth 20 <hi>
+                  <abbr>s.</abbr> per Annum</hi> the Acre, or thereabouts. So far a better Drain is now wanted.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
